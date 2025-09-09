@@ -1,4 +1,10 @@
-# Descrição dos Relacionamentos
+<div style="text-align: center;">
+  <img src="valcann-logo.png" alt="Logo" style="display: inline-block;">
+</div>
+
+> Conteudo desenvolvido como o objetivo de responder questões para avaliação técnica da posição de **Desenvolvedor(a) Back-end Júnior** na **VALCANN**, sobre **Modelagem Conceitual de Banco de Dados** e **Manipulação de dados utilizando seus relacionamentos**.
+
+# 📚 Descrição dos Relacionamentos
 
 > Dicionário de termos:
 > (1) - Um único registro/dado.
